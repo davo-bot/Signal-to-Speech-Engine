@@ -162,10 +162,10 @@ This repository documents a functional end-to-end prototype. Two components are 
 
 Full technical documentation is available in the `/docs` folder:
 
-- [System Overview](docs/02_system_overview.pdf) — end-to-end pipeline explanation and design philosophy
-- [Search Intelligence Methodology](docs/03_search_intelligence_methodology.pdf) — Perplexity and Exa.ai design decisions and query architecture
-- [Synthesis Layer Architecture](docs/04_synthesis_layer_architecture.pdf) — Agent 1 filter design, scoring gate, and output structure
-- [Prompt Architecture](docs/05_prompt_architecture.pdf) — annotated Agent 1 and Agent 2 system prompt design decisions
+- [System Overview](docs/02_system_overview.docx) — end-to-end pipeline explanation and design philosophy
+- [Search Intelligence Methodology](docs/03_search_intelligence_methodology.docx) — Perplexity and Exa.ai design decisions and query architecture
+- [Synthesis Layer Architecture](docs/04_synthesis_layer_architecture.docx) — Agent 1 filter design, scoring gate, and output structure
+- [Prompt Architecture](docs/05_prompt_architecture.docx) — annotated Agent 1 and Agent 2 system prompt design decisions
 
 ---
 
