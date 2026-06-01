@@ -2,6 +2,8 @@
 
 A seven-layer multi-agent AI pipeline that replaces generic cold outreach with intelligence-backed, personalised conversation openers for management consulting recruitment.
 
+<img width="2339" height="1654" alt="Signal-Speech Engine_pipeline_diagram-1" src="https://github.com/user-attachments/assets/26b1c5b9-7014-4fc7-adfa-e1ec1a9cf34e" />
+
 ---
 
 ## The Problem
