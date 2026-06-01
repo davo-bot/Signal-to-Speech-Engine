@@ -1,0 +1,32 @@
+
+{
+  "company": "[FIRM NAME]",
+  "contact_name": "[CONTACT NAME]",
+  "filters": {
+    "timing": {
+      "verdict": "PASS",
+      "evidence": "A July 2025 report identified accelerating M&A consolidation in the UK wealth management sector, with mid-market firms facing integration pressure and capability gaps at senior level. Publication date confirmed within 365-day threshold.",
+      "source": "[SOURCE URL]"
+    },
+    "relevance": {
+      "verdict": "PASS",
+      "evidence": "The consolidation wave identified in Perplexity findings creates direct demand for senior professionals with private equity and wealth management expertise — a capability gap Consulting Point is positioned to address.",
+      "source": "[SOURCE URL]"
+    },
+    "credibility": {
+      "verdict": "PASS",
+      "evidence": "Exa retrieval surfaced a verified attribution to [CONTACT NAME] at [FIRM NAME] describing their application of zero-based budgeting methodology to portfolio company cost restructuring — a specific, non-obvious professional stance confirmed by full name and current firm.",
+      "source": "[SOURCE URL]"
+    }
+  },
+  "fit_score": "HIGH",
+  "scoring_rationale": "Timing PASS: dated commercial signal within 365 days with confirmed urgency. Relevance PASS: direct line from M&A consolidation pressure to senior talent demand Consulting Point can address. Credibility PASS: specific ZBB methodology attribution confirmed with full name and current firm. All three filters pass — fit score HIGH.",
+  "trigger_event": "Accelerating M&A consolidation in UK wealth management creating senior capability gaps at portfolio company level, confirmed July 2025.",
+  "motivation_match": "Firms navigating post-acquisition integration require senior professionals with both financial restructuring expertise and operational delivery experience. This creates a specific, time-pressured talent need aligned with Consulting Point's placement capability.",
+  "resonance_profile": "[CONTACT NAME], [ROLE] at [FIRM NAME], has publicly described applying zero-based budgeting methodology to portfolio company restructuring — a specific and non-obvious professional stance that distinguishes their approach from generalist private equity advisory.",
+  "timing_rationale": "July 2025 consolidation report confirms active market disruption within the 365-day recency threshold. The pressure point is current, not historical.",
+  "data_gaps": [
+    "No firm-specific headcount or hiring data was returned for [FIRM NAME] — Relevance is drawn from sector-level consolidation evidence rather than confirmed firm-level intelligence.",
+    "One Exa result returned content about an adjacent individual in a similar domain — rejected under full name and current firm attribution requirement and excluded from Credibility assessment."
+  ]
+}
