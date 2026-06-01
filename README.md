@@ -2,8 +2,6 @@
 
 A seven-layer multi-agent AI pipeline that replaces generic cold outreach with intelligence-backed, personalised conversation openers for management consulting recruitment.
 
-![Pipeline Architecture](docs/01_pipeline_diagram.pdf)
-
 ---
 
 ## The Problem
